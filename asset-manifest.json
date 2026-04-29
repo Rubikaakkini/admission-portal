@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/admission-portal/static/css/main.a1413bdd.css",
-    "main.js": "/admission-portal/static/js/main.23a174ba.js",
+    "main.js": "/admission-portal/static/js/main.94ec64d2.js",
     "static/js/453.22a450d7.chunk.js": "/admission-portal/static/js/453.22a450d7.chunk.js",
     "index.html": "/admission-portal/index.html",
     "main.a1413bdd.css.map": "/admission-portal/static/css/main.a1413bdd.css.map",
-    "main.23a174ba.js.map": "/admission-portal/static/js/main.23a174ba.js.map",
+    "main.94ec64d2.js.map": "/admission-portal/static/js/main.94ec64d2.js.map",
     "453.22a450d7.chunk.js.map": "/admission-portal/static/js/453.22a450d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1413bdd.css",
-    "static/js/main.23a174ba.js"
+    "static/js/main.94ec64d2.js"
   ]
 }
